@@ -13,3 +13,7 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+   Cara nova do projeto:
+
+![image](https://github.com/PratadoYoutube/TrabalhoModulo1Descomplica/assets/103465532/2b842361-5e60-40f0-acab-f0d0d7c5924a)
